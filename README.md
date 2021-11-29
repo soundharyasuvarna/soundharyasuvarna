@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @soundharyasuvarna
-- 👀 I’m interested in Business and Data Analytics, Product Management.
-- 🌱 I’m currently learning Python, SQL, R
-- 💞️ I’m looking to collaborate on Data Visualization
+Solutions driven Business Analyst with leading cross functional teams in the Business development, documentation and delivery of process innovations driving the attainment of business goals. I am currently pursing MS in Business Analytics at Santa Clara University, California. My passion for Data Science allows me to provide data-driven, action-oriented solutions to challenging business problems.
 
 
 <!---
