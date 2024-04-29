@@ -53,9 +53,6 @@ Auto-Regressive Integrated Moving Averages (ARIMA) Model
 Seasonal Auto-Regressive Integrated Moving Averages (SARIMA) Model
 
 
-Machine Learning Projects
-[
-](https://github.com/soundharyasuvarna/Machine-learning/blob/main/02-Linear%20Regression%20Project.ipynb)<!---
-soundharyasuvarna/soundharyasuvarna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
