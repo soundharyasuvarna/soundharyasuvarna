@@ -68,7 +68,7 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 
 | ☎️ [AtnT Customer Churn Prediction](https://github.com/soundharyasuvarna/ATnT-customer-churn-analysis)|
-
+| :-: |
 [<img src = "https://github.com/soundharyasuvarna/Images/blob/main/Predicting-Churn.jpg" width = 500 height = 300/>](https://github.com/soundharyasuvarna/ATnT-customer-churn-analysis)|
 
 | 🛍 [Ecommerce buying experience](https://github.com/soundharyasuvarna/ecommerce-store-buying-experience)| 
