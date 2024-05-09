@@ -3,7 +3,7 @@
 
 I'm passionate about __Machine Learning__, __Data Science__, __Large Language Models (LLMs)__, __Generative AI__ and __Dashboard__
 
-                          <img src = "https://github.com/soundharyasuvarna/Images/blob/main/PP.JPG" width = 450 height = 300/>
+   <img src = "https://github.com/soundharyasuvarna/Images/blob/main/PP.JPG" width = 450 height = 300/>
 
 🙋‍♂️ About Me 💼🎒
 
