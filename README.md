@@ -76,6 +76,10 @@ I encourage you to explore my machine learning and deep learning projects. The l
 | [<img src = "https://github.com/soundharyasuvarna/Images/blob/main/shopping.jpg" width = 500 height = 300/>](https://github.com/soundharyasuvarna/ecommerce-store-buying-experience)| 
 <hr style="border:0.01px solid blue">
 
+| 💰 [Default Loan Prediction](https://github.com/soundharyasuvarna/Default-Loan-Prediction-)|
+| :-: |
+| [<img src = "https://github.com/soundharyasuvarna/Images/blob/main/loan.jpg" width = 500 height = 300/>](https://github.com/soundharyasuvarna/Default-Loan-Prediction-)| 
+
 <h2 align = "center"> 🖥 Natural Language Processing (NLP) Projects</h2> 
 
 | 📚 [Predicting Readability of Texts](https://github.com/soundharyasuvarna/Predicting-readlity-of-texts---NLP)|
