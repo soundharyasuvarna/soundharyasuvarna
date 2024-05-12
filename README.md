@@ -82,6 +82,10 @@ I encourage you to explore my machine learning and deep learning projects. The l
 | :-: |
 | [<img src = "https://github.com/soundharyasuvarna/Images/blob/main/loan.jpg" width = 500 height = 300/>](https://github.com/soundharyasuvarna/Default-Loan-Prediction-)| 
 
+| 🛂 [Customer Segmentation](https://github.com/soundharyasuvarna/Customer-Segmentation-)|
+| :-: |
+| [<img src = "https://github.com/soundharyasuvarna/Images/blob/main/customer.jpg" width = 500 height = 300/>](https://github.com/soundharyasuvarna/Customer-Segmentation-)| 
+
 <h2 align = "center"> 🖥 Natural Language Processing (NLP) Projects</h2> 
 
 | 📚 [Predicting Readability of Texts](https://github.com/soundharyasuvarna/Predicting-readlity-of-texts---NLP)|
